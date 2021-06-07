@@ -10,3 +10,6 @@ Write a program that returns a list of number strings from 1 to n, where n is th
 
 **Upper bound**: 15 <br/>
 **Example output**: ['1', '2', 'Fizz', '4', 'Buzz', '6', '7', '8', '9', '10', '11', '12', '13', '14', 'FizzBuzz']
+
+Add minor change in GitHub
+
