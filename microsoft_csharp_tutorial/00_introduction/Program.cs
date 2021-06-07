@@ -8,6 +8,7 @@ namespace introduction
         {
             var message = "Hello World";
             Console.WriteLine($"{message}!");
+            Console.WriteLine("New Message");
         }
     }
 }
